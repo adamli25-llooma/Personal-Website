@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/Personal-Website/sitemap.xml
+Sitemap: https://adamli25-llooma.github.io/Personal-Website/sitemap.xml
